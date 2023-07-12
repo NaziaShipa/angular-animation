@@ -23,7 +23,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/google-fonts.css",
+              "src/assets/css/normalize.min.css",
+              "src/assets/css/demo.css"
             ],
             "scripts": []
           },
@@ -97,5 +100,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "7963563d-e6ce-4904-9932-0864bbd0513a"
   }
 }
